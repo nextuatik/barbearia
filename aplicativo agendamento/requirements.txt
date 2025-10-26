@@ -2,3 +2,5 @@ Flask
 werkzeug
 sqlite3-binary
 gunicorn
+flask
+gunicorn
